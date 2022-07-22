@@ -1,2 +1,2 @@
-idf_component_register(SRCS "ESP32_CAMERA_QR_V4.c"
+idf_component_register(SRCS ${app_sources}
                     INCLUDE_DIRS ".")
